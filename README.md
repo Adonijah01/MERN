@@ -37,7 +37,7 @@ I commit to pushing code to this repository on a daily basis as part of my learn
 To get started with this repository and follow my MERN stack learning journey, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/mern-stack-learning-journey.git
+git clone https://github.com/adonijah01/mern-stack-learning-journey.git
 
 Contributing
 
@@ -47,5 +47,5 @@ License
 This project is licensed under the [Your License] License - see the LICENSE.md file for details.
 
 
-Please replace `"your-username"` with your actual GitHub username and adjust the content of the curriculum and daily GitHub projects sections as needed based on your learning plan. This README.md provides a structure for your learning journey repository.
+
 
