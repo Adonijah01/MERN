@@ -1,0 +1,34 @@
+// Declare variables of different data types
+var numberVariable = 42; // Numeric variable
+var stringVariable = "Hello, world!"; // String variable
+var booleanVariable = true; // Boolean variable
+var nullVariable = null; // Null variable
+var undefinedVariable; // Undefined variable
+
+In this part of the code, we declare five different variables, each with its own data type:
+
+    numberVariable: This variable is assigned the value 42, which is a numeric value. JavaScript uses the var keyword to declare variables.
+
+    stringVariable: This variable is assigned the string "Hello, world!". Strings are sequences of characters enclosed in double or single quotes.
+
+    booleanVariable: This variable is assigned the value true, which is a boolean value. Booleans can only have two values, true or false, representing logical states.
+
+    nullVariable: This variable is assigned the special value null, which is often used to represent the intentional absence of any object value or as a placeholder.
+
+    undefinedVariable: This variable is declared without an initial value, so it is undefined by default. In JavaScript, variables that are declared but not initialized are assigned the value undefined.
+
+javascript
+
+// Print variable values to the console
+console.log("Number Variable:", numberVariable);
+console.log("String Variable:", stringVariable);
+console.log("Boolean Variable:", booleanVariable);
+console.log("Null Variable:", nullVariable);
+console.log("Undefined Variable:", undefinedVariable);
+
+In this part of the code, we use the console.log() function to print the values of the variables to the console. console.log() is a built-in function in JavaScript that is used for debugging and displaying information in the console.
+
+    Each console.log() statement prints a message along with the value of the respective variable. For example, console.log("Number Variable:", numberVariable); prints "Number Variable:" followed by the value of numberVariable to the console.
+
+When you run this JavaScript code, it will display the values of these variables in your terminal or browser's developer console, helping you understand how different data types are represented in JavaScript and how to print output to the console for debugging and informational purposes.
+
