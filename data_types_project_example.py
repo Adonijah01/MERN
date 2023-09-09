@@ -1,7 +1,7 @@
 import random
 
 def guess_the_number():
-    print("Welcome to the Guess the Number game!")
+    print("Welcome to the Guess the Number gamemanic")
     print("I'm thinking of a number between 1 and 100.")
 
     # Generate a random number between 1 and 100
@@ -20,9 +20,9 @@ def guess_the_number():
                 print(f"Congratulations! You guessed the number {secret_number} in {attempts} attempts.")
                 break
             elif guess < secret_number:
-                print("Try a higher number.")
+                print("Try a higher/bigger number.")
             else:
-                print("Try a lower number.")
+                print("Try a lower/smaller number.")
         except ValueError:
             print("Invalid input. Please enter a valid number.")
 
