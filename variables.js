@@ -1,4 +1,5 @@
-// Declare variables of different data types
+/* Declare variables of different data types */
+
 var numberVariable = 42; // Numeric variable
 var stringVariable = "Hello, world!"; // String variable
 var booleanVariable = true; // Boolean variable
